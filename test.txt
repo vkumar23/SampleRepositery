@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is test file 
 I am adding new line to work on merge 
+=======
+This is test file
+adding into new file with the concept of creating new branch
+>>>>>>> vipinTest
